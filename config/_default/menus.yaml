@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external-1579093157-1686258267934
+  name: Heavy Metal 101 Website
+  url: https://metal.mit.edu/
+  weight: 10
+- identifier: external--1499053955-1687285693855
+  name: Class Archive (2021, 2022)
+  url: https://metal.mit.edu/archive
+  weight: 20
